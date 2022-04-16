@@ -1,0 +1,3 @@
+function java() {
+    alert("iyiyim")
+}
